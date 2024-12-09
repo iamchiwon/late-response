@@ -1,6 +1,6 @@
 "use client";
 
-import { getLongAction, getShortAction } from "@/business/service";
+import { getLongAction, getShortAction } from "@business/service";
 import { useState } from "react";
 
 export default function Home() {

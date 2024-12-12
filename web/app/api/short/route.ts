@@ -1,4 +1,4 @@
-import { LateResponse } from "../response";
+import { LateResponse } from "@shared/models/response";
 import { NextResponse } from "next/server";
 
 // /api/short 경로에 대한 POST 요청 처리

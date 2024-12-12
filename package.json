@@ -1,7 +1,0 @@
-{
-  "name": "late-response",
-  "scripts": {
-    "web:dev": "pnpm --filter web dev",
-    "build": "pnpm --filter web build"
-  }
-}

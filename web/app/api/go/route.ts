@@ -1,4 +1,4 @@
-import { LateResponse } from "@shared/models/response";
+import { LateResponse } from "../response";
 import { NextResponse } from "next/server";
 
 export async function GET() {

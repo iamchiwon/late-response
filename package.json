@@ -1,0 +1,9 @@
+{
+  "name": "late-response",
+  "scripts": {
+    "web:dev": "pnpm --filter web dev",
+    "build": "pnpm --filter web build",
+    "sandbox": "pnpm dlx @aws-amplify/backend-cli sandbox"
+  },
+  "packageManager": "pnpm@9.12.1"
+}
